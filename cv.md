@@ -1,4 +1,7 @@
 # Iuko Aliaksei
-## Contacs
-_9379992_
-Poland
+## Junior Frontend Developer
+*** ## Contacts
+* +48555666777
+* alexivko@gmail.com
+* [Git Hub](https://github.com/Aliaksei42/rsschool-cv/branches)
+* 
