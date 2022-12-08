@@ -2,7 +2,7 @@
 ## Contacts
 Location Poland, Wroclaw
 * Phone +48452537216
-* [Email] alexivko86@gmail.com
+* Email alexivko86@gmail.com
 * [Git Hub](https://github.com/Aliaksei42/rsschool-cv/branches)
 ## About Me
 I have excellent experience in troubleshooting different problems.  I can work in team and myself too.   A love to get new knowledge, make new contacts, and new aims.
@@ -10,3 +10,9 @@ I have excellent experience in troubleshooting different problems.  I can work i
 * Git
 * Visual Studio Code
 * Microsoft office
+## Code Example
+```
+# function multiply(a, b){
+ return a * b
+}
+```
