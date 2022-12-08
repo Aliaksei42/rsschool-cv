@@ -12,7 +12,15 @@ I have excellent experience in troubleshooting different problems.  I can work i
 * Microsoft office
 ## Code Example
 ```
-# function multiply(a, b){
+function multiply(a, b){
  return a * b
 }
 ```
+## Experience
+## Education
+* **University**: Belarusian state University of Transport, Civil Electrician Engineer
+* **Courses**: Community English School
+## English
+**A2**
+
+
