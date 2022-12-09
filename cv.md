@@ -1,6 +1,6 @@
 # Iuko Aliaksei
 ## Contacts
-* Location Poland, Wroclaw
+* Location Wroclaw, Poland
 * Phone +48452537216
 * Email alexivko86@gmail.com
 * [Git Hub](https://github.com/Aliaksei42/rsschool-cv/branches)
@@ -21,10 +21,10 @@ function multiply(a, b){
 ## Education
 ### University 
 * Belarusian state University of Transport, Civil Electrician Engineer
-### Courses:
+### Courses
 * Community English School
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
-## Languages:
+## Languages
 * English - B1
 * Russian - Native
 * Polish - Basic
