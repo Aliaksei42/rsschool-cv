@@ -23,7 +23,7 @@ function multiply(a, b){
 ## Education
 ### University 
 * Belarusian state University of Transport, Civil Electrician Engineer
-    
+        
 ### Courses
 * Community English School
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
