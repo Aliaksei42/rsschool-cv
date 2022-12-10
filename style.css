@@ -1,3 +1,7 @@
-p {
-  font-weight: bold;
+article, section, aside {
+ 
+  p {
+    color: #444;
+  }
+ 
 }
