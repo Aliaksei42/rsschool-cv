@@ -1,7 +1,23 @@
-article, section, aside {
- 
-  p {
-    color: #444;
+<style> 
+
+  <body>
+    {
+    font-family: 'Roboto', sans-serif;
+
+    border: 1px solid red;
+    min-height: 100vh;
+    margin: 0; padding: 0;
+
+    }
+  
+  </body>
+  * {
+  box-sizing: border-box;
   }
- 
-}
+
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
+</style>
