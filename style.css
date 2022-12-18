@@ -11,6 +11,12 @@ body
 
     }
 
+  .section-list  {
+
+    list-style: none;
+
+  }
+
 
   * {
   box-sizing: border-box;
