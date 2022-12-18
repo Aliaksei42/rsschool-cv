@@ -2,7 +2,7 @@ body
     {
     font-family: 'Roboto', sans-serif;
 
-    border: 1px solid rgb(0, 24, 243);
+    border: 1px solid rgb(0, 243, 61);
     min-height: 100vh;
     margin: 0; padding: 0;
     display: flex;
@@ -70,5 +70,5 @@ body
   }
   
   .link:hover {
-    color: #eeff00;
+    color: #09ff00;
   }
