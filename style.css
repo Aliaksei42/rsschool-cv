@@ -72,3 +72,17 @@ body
   .link:hover {
     color: #09ff00;
   }
+  
+  footer .github-icon {
+    margin-right: 10px;
+  } 
+
+  footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    font-size: 0.8rem;
+    color: #5a07f5;
+    background-color: var(--dark-gray-color);
+  }
