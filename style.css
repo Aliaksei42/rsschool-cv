@@ -11,6 +11,14 @@ body
 
     }
 
+    body {
+      font-family: 'Roboto', sans-serif;
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 1.5;
+      color: #4d2323;
+    }  
+
   * {
   box-sizing: border-box;
   }
