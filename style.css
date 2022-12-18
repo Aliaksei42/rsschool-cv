@@ -86,9 +86,19 @@ body
   footer {
     display: flex;
     justify-content: space-between;
-    align-items: center;
     padding: 20px;
     font-size: 0.8rem;
     color: #073ff5;
     background-color: #07f556;
   }
+
+  header {
+    background-color: #0196b1;
+}
+* {
+    box-sizing: border-box;
+}
+
+header {
+    display: block;
+}
