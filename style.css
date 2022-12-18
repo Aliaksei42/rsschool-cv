@@ -72,7 +72,7 @@ body
   .link:hover {
     color: #09ff00;
   }
-  
+
   footer .github-icon {
     margin-right: 10px;
   } 
@@ -83,6 +83,6 @@ body
     align-items: center;
     padding: 20px;
     font-size: 0.8rem;
-    color: #5a07f5;
-    background-color: var(--dark-gray-color);
+    color: #073ff5;
+    background-color: #07f556;
   }
